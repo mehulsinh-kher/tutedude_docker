@@ -40,3 +40,11 @@ This folder contains python flask server which servs data to frontend via port `
 
 The `docker-compose.yml` file defines the multi-container architecture of the project. It tells Docker how to build and run all related services together, such as the backend, frontend, and any database containers.
 
+
+## Running Instructions 
+
+-   git clone `https://github.com/mehulsinh-kher/tutedude_docker`
+
+-   cd tutedude_docker
+
+-   docker-compose up
